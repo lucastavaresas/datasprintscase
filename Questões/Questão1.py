@@ -5,6 +5,5 @@ def Questao1(i):
             break
     return i[index]
 
-
-Questao1("teste")
-Questao1("engenharia de dados")
+print(Questao1("teste"))
+print(Questao1("engenharia de dados"))
