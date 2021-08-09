@@ -1,9 +1,6 @@
 # datasprintscase
 Teste Técnico de Engenharia de Dados para estágio data sprints
 
-Teste Técnico de Engenharia de Dados para estágio data sprints
-
-
 Afim de resolver a primeira questão dada, tive o seguinte raciocínio:   
 Transformar a string em uma lista, logo em seguida fazer um loop que vá em todos os indexes contando a quantidade de letras iguais ao respectivo index contado, logo
 ápos isto verificar se em algum index contado teria o valor 1, significando em apenas uma letra, e retornar esse index na lista fazendo com que saísse o resultado desejado.
