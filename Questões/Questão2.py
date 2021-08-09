@@ -17,7 +17,7 @@ plt.figure(dpi=100, figsize=(15, 5))
 sns.boxplot(x='petal_length', y='species', data=df)
 plt.show()
 
-df.describe()
+print(df.describe())
 
 df0 = df['species'] == 'setosa'
 df1 = df['species'] == 'versicolor'
