@@ -4,6 +4,3 @@ def Questao1(i):
         if listed.count(listed[index]) == 1:
             break
     return i[index]
-
-print(Questao1("teste"))
-print(Questao1("engenharia de dados"))
